@@ -8,7 +8,7 @@ QA Automation Engineer in progress — building test suites in Playwright/TypeSc
 - 🛠️ Growing backend skills in **C#/.NET, EF Core, and PostgreSQL** to better understand the systems I test
 - 🤖 Exploring **AI-augmented QA** — using AI to triage test failures, and learning to test AI-powered features (RAG pipelines)
 - 🎓 Finishing a **Bachelor's in Computer Systems** (Information & Communication Technologies) at Riga Technical University — graduating February 2027
-- 📍 Looking for **QA Automation opportunities in Latvia**
+- 📍 Looking for **QA Automation opportunities**
 
 ## 🧭 Background
 
